@@ -1,13 +1,6 @@
-# Movie Request App
+# Karaoke Queueing Application
 
-A web application built with Laravel and Nuxt.js that allows users to request movies.
-
-## Features
-
-- Users can browse a catalog of movies.
-- Users can search for movies by title, genre, or actor.
-- Users can submit movie requests.
-- Admins can manage movie requests and mark them as fulfilled.
+A web application built with Laravel and Nuxt.js that allows users to request songs like karaoke.
 
 ## Technologies Used
 
@@ -17,9 +10,9 @@ A web application built with Laravel and Nuxt.js that allows users to request mo
 
 ## Requirements
 
-- PHP 7.4 or higher
-- Node.js 14 or higher
-- MySQL 5.7 or higher
+- PHP 8.1 or higher
+- Node.js 18 or higher
+- MySQL 8 or higher
 
 ## Installation
 
