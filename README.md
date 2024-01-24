@@ -11,7 +11,7 @@ A web application built with Laravel and Nuxt.js that allows users to request so
 ## Requirements
 
 - PHP 8.1 or higher
-- Node.js 18 or higher
+- Bun 1.0.19 or higher
 - MySQL 8 or higher
 
 ## Installation
